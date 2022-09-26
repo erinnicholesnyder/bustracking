@@ -2,7 +2,7 @@
 
 #### Description
 
-This is a project for the MIT xPRO Professional Certificate in Coding. Working with a Map Box API, a marker is animation to move across the screen at every bus stop between MIT and Harvard once a button is clicked
+This is a project for the MIT xPRO Professional Certificate in Coding. Working with a Map Box API, a marker is animated to move across the screen at every bus stop between MIT and Harvard once a button is clicked
 
 
 #### Usage

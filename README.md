@@ -5,9 +5,15 @@
 This is a project for the MIT xPRO Professional Certificate in Coding. Working with a Map Box API, a marker is animated to move across the screen at every bus stop between MIT and Harvard once a button is clicked
 
 
-#### Usage
+#### How to Run
 
-This project demonstrates the use of functions, arrays and loops to call and move images in a browser to create an animation
+Click the button at the top of the screen to begin the animation
+
+
+#### Roadmap of Future Improvements
+
+Look to explore the possibilities of API's and what functionality could be added such as additional buttons, routes, the ability to navigate the map choose additional routes
+
 
 #### License information
 
